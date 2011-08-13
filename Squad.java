@@ -1,7 +1,6 @@
 public class Squad
 {
     final Unit[] squad = new Unit [8];
-
     /** Constructs a Squad object with 8 different units
       */
     public Squad ()
