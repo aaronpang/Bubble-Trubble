@@ -1,0 +1,37 @@
+16
+22
+4444400A5555555555B444
+444A555C03333044416011
+3306000003313143336001
+0336333333333333036300
+000600000330300440D5B0
+5B060000004031444003D5
+0E5F5B0004003444440330
+5C060D5B06003044000033
+1006000D5F555B0400000A
+1116040006103601100006
+1106044111103601110006
+0006044001103600311006
+33363044000036003100AC
+0006300444443601100060
+000603304440360000A5C0
+0006003444443D5555C000
+
+
+0 is grass
+1 is forest
+2 is desert
+3 is water
+4 is mountain
+5 is horizontal highway
+6 is vertical highway
+7 is acid
+8 is black pit
+9 is black pit you can move through
+
+A = 17 is highway turns down  > right
+B = 18 is highway turns down  > left
+C = 19 is highway turns left  > up
+D = 20 is highway turns right > up
+E = 21 is highway crossroad 3
+F = 22 is highway crossroad 4
