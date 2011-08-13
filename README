@@ -1,6 +1,17 @@
-This project was created by me, Aaron Pang and my friend Brandon Ma in grade 11 when we first learned how to use Java. We wanted to develop a game that was RPG-like but not too deep as we did not have much time since we had school. We started and finished the project in 2 weeks over the Christmas break with ALL hand drawn graphics, animations, menus and sounds taken off the internet. The end product came out to be a fire-emblem or advance wars style game with controls identical to that of VBA (Visual Boy Advance) since we were addicted to that back then. 
+This project was created by me, Aaron Pang and my friend Brandon Ma in grade 11 when we first learned Java. We wanted to develop a game that was RPG-like but not too deep as we did not have much time since we had school. We started and finished the project in 2 weeks over the Christmas break with ALL hand drawn graphics, animations, menus and sounds taken off the internet. The end product came out to be a fire-emblem or advance wars style game with controls identical to that of VBA (Visual Boy Advance) since we were addicted to that back then. 
 
-To Play:
+
+HOW TO DOWNLOAD:
+
+Download the .zip file or .tar.gz file and extract into a folder.
+Compile and Run BubbleTrubble.java (That is the main program)
+
+WARNING: This game was designed with 1280 x 1024 screens with all the images and background made to accommodate this fact. Unfortunately we were brand new to java and did not do any re-sizing or anything like that, so make sure your resolution is large enough to see the entire game in its entirety. 
+
+
+
+
+How To Play:
 
 Arrow keys to select
 Z - Enter
