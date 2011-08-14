@@ -4,10 +4,15 @@ This project was created by me, Aaron Pang and my friend Brandon Ma in grade 11 
 HOW TO DOWNLOAD:
 
 Download the .zip file or .tar.gz file and extract into a folder.
-Compile and Run BubbleTrubble.java (That is the main program)
+Click "Run Bubble Trubble" batch file.
+
+OR
+
+Compile and run BubbleTrubble.java with cmd or IDE.
+
+
 
 WARNING: This game was designed with 1280 x 1024 screens with all the images and background made to accommodate this fact. Unfortunately we were brand new to java and did not do any re-sizing or anything like that, so make sure your resolution is large enough to see the entire game in its entirety. 
-
 
 
 
@@ -16,7 +21,14 @@ How To Play:
 Arrow keys to select
 Z - Enter
 X - Cancel
+In Game - Buttons 1,2,3,4 also select units as well.
 
-Refer to the help menu given in the game.
+TIP: When you are in game, you must click Z to access the left menu and end the unit's turn. You must end all of your unit's turns in order to switch turns with the other player. Also, you can press 1,2,3,4 to switch between your units. 
 
-This project and code is property of Aaron Pang and Brandon Ma, please ask for permission before using this code. Do not claim this project as your own or steal the code, thank you very much.
+Refer to the help menu given in the game. (If you've ever played Advance Wars or Fire Emblem on VBA, this game is very similar in style and gameplay)
+
+
+
+
+
+This project and code is property of Aaron Pang and Brandon Ma, please ask for permission before using this code. Do not claim this project as your own or steal the code, cheers.
